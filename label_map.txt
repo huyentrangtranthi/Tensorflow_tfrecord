@@ -1,7 +1,6 @@
 item { id:1,name:'Nấm rơm'}
 item { id:2,name:'Nấm kim châm'}
 item { id:3,name:'Nấm hương'}
-item { id:4,name:'Nấm hầu thủ (nấm đầu khỉ)'}
 item { id:5,name:'Nấm mỡ'}
 item { id:6,name:'Nấm thái dương'}
 item { id:7,name:'Nấm linh chi'}
