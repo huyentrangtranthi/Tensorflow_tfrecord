@@ -33,6 +33,7 @@ def class_text_to_int(row_label):
         'Nấm rơm': (1, 'Nấm rơm'),
         'Nấm kim châm': (2, 'Nấm kim châm'),
         'Nấm hương': (3, 'Nấm hương'),
+        'Nấm hầu thủ (nấm đầu khỉ': (4, 'Nấm hầu thủ (nấm đầu khỉ)'),
         'Nấm mỡ': (5, 'Nấm mỡ'),
         'Nấm thái dương': (6, 'Nấm thái dương'),
 	    'Nấm linh chi': (7, 'Nấm linh chi'),
