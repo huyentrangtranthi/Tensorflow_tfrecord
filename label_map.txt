@@ -1,12 +1,11 @@
 item { id:1,name:'Nấm rơm'}
 item { id:2,name:'Nấm kim châm'}
 item { id:3,name:'Nấm hương'}
-item { id:4,name:'Nấm hầu thủ (nấm đầu khỉ)'}
-item { id:5,name:'Nấm mỡ'}
-item { id:6,name:'Nấm thái dương'}
+item { id:5,name:'Nấm mỡ'}
+item { id:6,name:'Nấm thái dương'}
 item { id:7,name:'Nấm linh chi'}
 item { id:8,name:'Nấm tràm'}
-item { id:9,name:'Nấm bào ngư '}
+item { id:9,name:'Nấm bào ngư'}
 item { id:10,name:'Nấm thông'}
 item { id:11,name:'Nấm tuyết'}
 item { id:12,name:'Nấm Deadly Dapperling'}
@@ -17,3 +16,4 @@ item { id:16,name:'Nấm bàn tay tử thần'}
 item { id:17,name:'Nấm False Morel'}
 item { id:18,name:'Nấm Morel'}
 item { id:19,name:'Nấm hoàng đế'}
+
